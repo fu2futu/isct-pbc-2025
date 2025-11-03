@@ -10,6 +10,7 @@
 - [Bubble Basics](./docs/learning-phase-1/Bubble/pdf/Bubble-en.pdf)
 
 ### #2 2025/11/08 Learning Phase 2
+- [Programming Basics](./docs/learning-phase-2/README.md)
 
 ### #3 2025/11/15 Learning Phase 3
 
